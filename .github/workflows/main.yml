@@ -37,4 +37,4 @@ jobs:
           folder: www # The folder the action should deploy.
           clean: true
           single-commit: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ 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 }}
